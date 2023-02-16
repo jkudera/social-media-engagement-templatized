@@ -42,5 +42,5 @@ Each social network allows access to the history of page engagement differently:
 - Facebook - maximum 93 days ago
 - Instagram - maximum 30 days ago
 - LinkedIn - without known limit
-- Twitter - page engagement since today
+- Twitter - since the first run of a component 
 - Youtube - currently not available in this template
