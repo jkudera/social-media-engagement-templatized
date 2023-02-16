@@ -131,15 +131,15 @@
               default: 'last_30d',
               options: [
                 {
-                  value: 'last_7d',
+                  value: '7 days ago',
                   label: '7 days ago',
                 },
                 {
-                  value: 'last_14d',
+                  value: '14 days ago',
                   label: '14 days ago',
                 },
                 {
-                  value: 'last_30d',
+                  value: '30 days ago',
                   label: '30 days ago',
                 },
               ],
