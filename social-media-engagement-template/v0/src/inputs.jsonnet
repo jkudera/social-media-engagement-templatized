@@ -35,7 +35,7 @@
               description: "Select period from which you want to get the data.",
               type: "string",
               kind: "select",
-              default: 'last_90d',
+              default: 'last_30d',
               options: [
                 {
                   value: 'last_30d',
@@ -74,7 +74,7 @@
               name: "Sync options Date from",
               type: "string",
               kind: "select",
-              default: "3 months ago",
+              default: "1 month ago",
               options: [
                 {
                   value: '1 month ago',
